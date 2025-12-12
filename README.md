@@ -26,3 +26,23 @@ L’outil fonctionne directement depuis la clé USB, sans installation.
 
 ## Arborescence sur la clé USB
 
+USB-Anon-Launcher/
+│
+├─ launcher.exe # EXE compilé du launcher
+├─ ttt.cpp # Code source C++
+├─ tools/
+│ ├─ tor-portable/
+│ │ └─ Browser/
+│ │ └─ firefox.exe # Tor Portable déjà extrait
+│ └─ cleanup.ps1 # Script PowerShell pour nettoyage
+├─ panic/
+│ └─ panic_wipe.ps1 # Script PowerShell pour Panic Button
+└─ config/
+├─ settings.json # Fichier de configuration
+└─ panic.flag # Fichier utilisé par le Panic Button
+
+
+---
+
+
+
