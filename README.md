@@ -24,5 +24,5 @@ L’outil fonctionne directement depuis la clé USB, sans installation.
 
 ---
 
-## Arborescence recommandée sur la clé USB
+## Arborescence sur la clé USB
 
