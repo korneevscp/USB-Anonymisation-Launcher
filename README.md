@@ -39,6 +39,9 @@ L’outil fonctionne directement depuis la clé USB, sans installation.
 - `panic/panic_wipe.ps1`  
 - `config/settings.json` et `config/panic.flag`  
 
+##  info 
+install tor dans tools/tor....
+
 
 
 
