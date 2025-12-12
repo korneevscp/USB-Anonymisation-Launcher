@@ -25,6 +25,20 @@ L’outil fonctionne directement depuis la clé USB, sans installation.
 ---
 
 
+## Installation
+
+1. Placer Tor Portable dans `tools/tor-portable/Browser/firefox.exe`  
+2. Placer les scripts PowerShell dans `tools/` et `panic/`  
+3. Lancer `launcher.exe` depuis la clé USB  
+
+## Fichiers à inclure
+
+- `ttt.cpp`  
+- `launcher.exe` (optionnel)  
+- `tools/cleanup.ps1`  
+- `panic/panic_wipe.ps1`  
+- `config/settings.json` et `config/panic.flag`  
+
 
 
 
