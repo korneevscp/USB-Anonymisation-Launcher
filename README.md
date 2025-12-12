@@ -42,7 +42,4 @@ USB-Anon-Launcher/
 └─ panic.flag # Fichier utilisé par le Panic Button
 
 
----
-
-
 
